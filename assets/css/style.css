@@ -1,0 +1,19 @@
+body {
+    background-color:#c2c9ca;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+.area {
+    width: 400px;
+    max-width:400px;
+    text-align:center;
+    background-color: #fcfcfc;
+}
+
+.logo {
+
+}
